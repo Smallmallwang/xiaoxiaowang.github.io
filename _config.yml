@@ -38,16 +38,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
+  - title: Papers
     url: /publications/
-  - title: Working Papers
-    url: /Workingpapers/
+ # - title: Working Papers
+  #  url: /Workingpapers/
   - title: Hobbies
     url: /hobbies/
-  - title: Startups
-    url: /startups/
-  - title: Blogs
-    url: /blogs/
+#  - title: Startups
+#    url: /startups/
+#  - title: Blogs
+ #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
